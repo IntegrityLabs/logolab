@@ -6,5 +6,5 @@ Just having fun with our brandmark. I enourage you to do the same. Let's make st
 ![lab](LAB/screenshots-1.png)
 
 ## Long Shadow
-![longshadow](integrity-long-shadow.png)
-![longshadow](integrity-long-shadow-2.png)
+![longshadow](LAB/integrity-long-shadow.png)
+![longshadow](LAB/integrity-long-shadow-2.png)
