@@ -3,7 +3,6 @@ Just having fun with our brandmark. I enourage you to do the same. Let's make st
 
 ## Integrity Lab v0.1
 ![lab](LAB/8-il.v0.1.png)
-![lab](LAB/8-il.v0.1.svg)
 ![lab](LAB/screenshots-1.png)
 
 ## Long Shadow
